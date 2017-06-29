@@ -1,0 +1,27 @@
+{
+    "api":{
+        "getTenant.json":"Get the list of the tenants in the docker container.",
+        "testAPI.json":"API to test the connectivity to the docker container."
+    },
+    "apicversion":"2.2(1n)",
+    "appid":"aciCLStatefulApp",
+    "author":"Christine Lakits",
+    "category":[
+        "Tools and Utilities",
+        "Visibility and Monitoring",
+        "Networking"
+    ],
+    "contact":{
+        "contact-email":"clakits@cisco.com"
+    },
+    "iconfile":"icon.png",
+    "name":"aciCLStatefulApp",
+    "permissions":[
+        "admin"
+    ],
+    "permissionslevel":"read",
+    "shortdescr":"An stateful example app",
+    "vendor":"Cisco",
+    "vendordomain":"Cisco",
+    "version":"1.0"
+}

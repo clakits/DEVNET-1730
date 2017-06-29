@@ -1,0 +1,24 @@
+{
+    "apicversion":"2.2(1n)",
+    "appid":"aciCLStatelessApp",
+    "author":"Christine Lakits",
+    "category":[
+        "Tools and Utilities",
+        "Visibility and Monitoring"
+    ],
+    "contact":{
+        "contact-email":"clakits@cisco.com"
+    },
+    "iconfile":"exampleapp.jpg",
+    "name":"aciCLStatelessApp",
+    "permissions":[
+        "tenant-epg",
+        "tenant-network-profile",
+        "tenant-security"
+    ],
+    "permissionslevel":"read",
+    "shortdescr":"Example Stateless App",
+    "vendor":"Cisco",
+    "vendordomain":"Cisco",
+    "version":"1.0"
+}
